@@ -26,7 +26,7 @@ He was also involved in the development of the frontend part on Vue.js
 The services are used by a large number of users (from hundreds to thousands), including in narrow specializations.
 I am engaged in the administration of the server infrastructure - from server configuration to gitlab support.
 
-About Me:
+### About Me:
 
 I started getting interested in programming back in 8th grade when I created my first website using only HTML and CSS. In college, I got introduced to Python, and I fell in love with it due to its understandable syntax and multitasking capabilities. Currently, I am actively searching for a job that would help me further develop towards full-stack development.
 
