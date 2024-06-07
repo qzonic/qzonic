@@ -1,6 +1,6 @@
 My name is Danil Uralov, and I am a Backend Python Developer.
 
-I specialize in developing backend services using Django and Django Rest Framework. Additionally, I utilize PostgreSQL, Docker, and conduct code testing using unittest, pytest, and Postman. For version control and code management, I use GitHub.
+I specialize in developing backend services using Django and Django Rest Framework. Additionally, I utilize PostgreSQL, Docker, and conduct code testing using unittest, pytest, and Postman. For version control and code management, I use Git.
 
 ## Technologies
 
@@ -18,6 +18,13 @@ The company was involved in importing cars from Asian countries to Russia. The t
 1. Mathematical Calculations Application. Stack: numpy, scipy, matplotlib, math, jupyter notebook. Outcome: Created an application that enables students to solve practical problems from the textbook "Antennas and Radio Wave Distribution."
 
 2. Telegram Online Store. Stack: aiogram, Django, Django Rest Framework, MySQL. Outcomes: Developed backend with REST API and a bot that utilizes the API to fetch information about categories, products, and users.
+
+### Current work
+
+Participation in the development of web applications based on RESt API technology. At the heart of my activity is writing the backend of projects in Django and DRF, Celery, CeleryBeat, Redis, Docker, etc.
+He was also involved in the development of the frontend part on Vue.js
+The services are used by a large number of users (from hundreds to thousands), including in narrow specializations.
+I am engaged in the administration of the server infrastructure - from server configuration to gitlab support.
 
 About Me:
 
